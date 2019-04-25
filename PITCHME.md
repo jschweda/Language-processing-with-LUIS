@@ -89,12 +89,26 @@ Note:
     <td>1 Helles</td>
   </tr>
   <tr class="fragment">
-    <td></td>
+    <td>Noch a Seidla</td>
     <td></td>
     <td></td>
   </tr>
   <tr class="fragment">
+    <td>Mir dadn dann zahlen</td>
     <td></td>
+    <td></td>
+  </tr>
+   <tr class="fragment">
+    <td>Eine halbe bitte</td>
+    <td></td>
+    <td></td>
+  </tr> <tr class="fragment">
+    <td>Ein Bier</td>
+    <td></td>
+    <td></td>
+  </tr> 
+  <tr class="fragment">
+    <td>Wo bleibt mein Essen?</td>
     <td></td>
     <td></td>
   </tr>
