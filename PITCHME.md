@@ -48,11 +48,11 @@ Jan Schweda
 @ul
 - Language Understanding Intelligent Service
 - Natural Language Processing Service
-  - Domänen spezifisches Modell
+  - Domänen-spezifisches Modell
   - Vorbereitete Modelle verfügbar
 - Pre-Build Machine Learning
 - Cloud basierend
-  - API mit [Swagger](https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/export?DocumentFormat=Swagger&ApiName=LUIS%20Programmatic%20APIs%20v2.0) ;)
+  - [API](https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/export?DocumentFormat=Swagger&ApiName=LUIS%20Programmatic%20APIs%20v2.0) ;)
 @ulend
 
 +++?color=#303030&image=logo.png&position=right 10px top 10px&size=5%
@@ -64,7 +64,7 @@ Jan Schweda
 @ul
 - Social Media Apps
 - Chat Bots
-- Conversational User interfaces
+- Conversational User Interfaces
 @ulend
 
 Note:
