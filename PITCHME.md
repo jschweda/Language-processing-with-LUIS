@@ -17,7 +17,7 @@ Jan Schweda
 @title[Agenda]
 
 @snap[west span-40]
-# Agenda
+## Agenda
 @snapend
 
 @snap[north-east span-60 fragment]
